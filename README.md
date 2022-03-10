@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ayushginfopercept
-- 👀 I’m infopercept person...
 - 📫 ayushg@infopercept.com
 
 <!---
